@@ -1,3 +1,5 @@
+// I am aware that each answer is suppose to be a radio button but I was attempting to do the harder version and changed directions at the last minute, 
+// hence clickable buttons instead.
 $(document).ready(function () {
 
     var correct = 0;
